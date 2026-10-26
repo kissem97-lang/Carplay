@@ -1,0 +1,9 @@
+Package: com.drivehud.tweak
+Name: DriveHUD
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Description: Experimental modular CarPlay HUD for iOS 15 rootless jailbreaks.
+Maintainer: DriveHUD
+Author: DriveHUD
+Section: Tweaks
+Depends: firmware (>= 15.0)
